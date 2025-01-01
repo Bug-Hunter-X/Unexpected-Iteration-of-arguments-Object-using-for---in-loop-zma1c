@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in ActionScript related to iterating over the arguments object using a for...in loop.  The for...in loop unexpectedly iterates over the length property of the arguments object, which is not typically expected behavior.  The solution demonstrates a correct way to iterate over the arguments object using a traditional for loop.
